@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ezfUHZ/JCqoMaLeAW5yboaMqOyGfV+uQrlpEbU7eGyIzAfb5wtuQGrxDWoMhPLrPKiKV28mfaebyiD2PwEILIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aluno\\Desktop\\Testesoftware\\Testesolftware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aluno\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\aluno\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
